@@ -30,17 +30,17 @@ This project demonstrates a complete machine learning workflow, from data explor
 └── README.md                   # You are here!
 ```
 
-🔧 Setup and Installation
+# 🔧 Setup and Installation
 
 To run this project locally, please follow these steps:
 
-1. Clone the repository:
+## 1. Clone the repository:
 
   ```bash
   git clone https://github.com/your-username/student-performance-predictor.git
   cd student-performance-predictor
   ```
-2. Create and activate a virtual environment:
+## 2. Create and activate a virtual environment:
 
   On macOS/Linux:
   ```bash
@@ -52,7 +52,7 @@ To run this project locally, please follow these steps:
   python -m venv venv
   .\venv\Scripts\activate
   ```
-3. Install the required dependencies:
+## 3. Install the required dependencies:
 A requirements.txt file is included for easy installation.
   ```bash
   pip install -r requirements.txt
@@ -75,7 +75,7 @@ Once the setup is complete, you can launch the Streamlit application with the fo
 
 Your web browser should automatically open to the application's local URL.
 
-🧠 Methodology
+# 🧠 Methodology
 
 The predictive model was developed following these steps, as detailed in Main.ipynb:
 
